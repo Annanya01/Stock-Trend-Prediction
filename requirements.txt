@@ -1,0 +1,6 @@
+matplotlib
+pandas
+pyplot
+streamlit
+numpy
+keras.models
